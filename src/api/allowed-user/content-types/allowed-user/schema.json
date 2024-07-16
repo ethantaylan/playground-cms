@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "allowed_users",
+  "info": {
+    "singularName": "allowed-user",
+    "pluralName": "allowed-users",
+    "displayName": "allowedUser"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "emails": {
+      "type": "json"
+    }
+  }
+}
